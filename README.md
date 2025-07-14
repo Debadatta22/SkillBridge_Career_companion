@@ -1,11 +1,14 @@
 # SkillBridge_Career_companion
+
+<img width="1304" height="610" alt="image" src="https://github.com/user-attachments/assets/a49af281-115f-4bcb-872c-b8cbfaa0ddbd" />
+
+
 ----------------------
 
 # Career Companion - Interactive Career Guidance Platform
 
 <div align="center">
 
-![Career Companion Logo](https://img.shields.io/badge/Career-Companion-blue?style=for-the-badge&logo=react&logoColor=white)
 
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
