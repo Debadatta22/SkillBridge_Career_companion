@@ -16,7 +16,7 @@
 [![Vite](https://img.shields.io/badge/Vite-5.4.2-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Netlify](https://img.shields.io/badge/Deployed_on-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
-**🌐 [Live Demo](https://ubiquitous-queijadas-0ac6ce.netlify.app) | 📖 [Documentation](#documentation) | 🚀 [Quick Start](#quick-start)**
+**🌐 [Live Demo](https://ubiquitous-queijadas-0ac6ce.netlify.app)**
 
 *Empowering careers, one student at a time.*
 
