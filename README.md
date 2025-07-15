@@ -3,6 +3,10 @@
 <img width="1304" height="610" alt="image" src="https://github.com/user-attachments/assets/a49af281-115f-4bcb-872c-b8cbfaa0ddbd" />
 
 
+## Download the files from here -
+### 🔗 [SkillBridge_Files](  https://drive.google.com/drive/folders/1-eHz2SIzBfF8aAMWJSFmYsNt5y9tiAs3?usp=sharing)
+
+
 ----------------------
 
 # Career Companion - Interactive Career Guidance Platform
